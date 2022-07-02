@@ -1,5 +1,5 @@
 hello world
-<html 
+<html>
 <head>
 <title>SIFAT</title>
 <body>
@@ -16,8 +16,6 @@ h1 { font-size:
 
 
 
-</style>
-
 </head>
 <body bgcolor="red">
 <center>
@@ -26,6 +24,8 @@ h1 { font-size:
 <h1><p align="center" > This is my fast text </p> </h1>
 
 <u>This is my second text</u><br> <b>This is my third text</b><br> <i>This is my forth text </i>
+
+</style>
 
 </font>
 
@@ -37,7 +37,6 @@ h1 { font-size:
 
 </body>
 
-</html>
 
 Sifat . Nazmul . Sabbir
 
